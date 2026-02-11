@@ -30,7 +30,7 @@ The guide covers:
 - virtual joystick usage
 
 📄 **Reference:**  
-- [`ANYmal/anymal_manual_operation.md`](ANYmal/anymal_manual_operation.md)
+- [`ANYmal/ANYmal_manual_operation.md`](ANYmal/ANYmal_manual_operation.md)
 
 ---
 
