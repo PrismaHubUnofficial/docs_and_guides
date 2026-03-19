@@ -18,6 +18,18 @@ All contents are meant to support:
 
 ## Available Guides
 
+### General Quick Guides
+
+A collection of **general-purpose quick guides** is also available.
+
+These guides cover:
+- text-to-speech workflow for video voiceovers
+- subtitle creation in `.srt` format for voiceover videos
+
+📄 **References:**  
+- [`General Quick Guide/QUICK GUIDE — Voiceover for a Video.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20Voiceover%20for%20a%20Video.md)
+- [`General Quick Guide/QUICK GUIDE — Creating Subtitles.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20Creating%20Subtitles.md)
+
 ### ANYmal Quadruped Robot
 
 A detailed operational guide for the **ANYmal quadruped robot** is currently available.
@@ -31,6 +43,36 @@ The guide covers:
 
 📄 **Reference:**  
 - [`ANYmal/ANYmal_manual_operation.md`](ANYmal/ANYmal_manual_operation.md)
+
+### H1 Humanoid Robot
+
+A detailed operational guide for the **H1 humanoid robot** is currently available.
+
+The guide covers:
+- side battery power on and power off procedures
+- battery removal and charging instructions
+- controller power on procedure
+- robot operating modes
+- teleoperation commands
+- shutdown procedure
+
+📄 **Reference:**  
+- [`H1/H1_manual_operation`](H1/H1_manual_operation)
+
+### Rover Mobile Platform
+
+A detailed operational guide for the **rover mobile platform** is currently available.
+
+The guide covers:
+- rover battery connection procedure
+- NUC power on procedure
+- alternative external NUC power supply
+- hardware connection notes
+- Docker image references
+- SSH connection details
+
+📄 **Reference:**  
+- [`Rover/Rover_manual_operation.md`](Rover/Rover_manual_operation.md)
 
 ---
 
