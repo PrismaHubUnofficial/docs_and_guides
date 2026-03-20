@@ -42,7 +42,7 @@ The guide covers:
 - virtual joystick usage
 
 📄 **Reference:**  
-- [`ANYmal/ANYmal_manual_operation.md`](ANYmal/ANYmal_manual_operation.md)
+- [`robots/ANYmal/ANYmal_manual_operation.md`](robots/ANYmal/ANYmal_manual_operation.md)
 
 ### H1 Humanoid Robot
 
@@ -57,7 +57,7 @@ The guide covers:
 - shutdown procedure
 
 📄 **Reference:**  
-- [`H1/H1_manual_operation`](H1/H1_manual_operation)
+- [`robots/H1/H1_manual_operation`](robots/H1/H1_manual_operation)
 
 ### Rover Mobile Platform
 
@@ -72,7 +72,7 @@ The guide covers:
 - SSH connection details
 
 📄 **Reference:**  
-- [`Rover/Rover_manual_operation.md`](Rover/Rover_manual_operation.md)
+- [`robots/Rover/Rover_manual_operation.md`](robots/Rover/Rover_manual_operation.md)
 
 ---
 
