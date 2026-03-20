@@ -74,6 +74,23 @@ The guide covers:
 📄 **Reference:**  
 - [`robots/Rover/Rover_manual_operation.md`](robots/Rover/Rover_manual_operation.md)
 
+### baby_k Tilting UAV
+
+A detailed operational guide for the **baby_k tilting unmanned aerial vehicle** is currently available.
+
+The guide covers:
+- pre-flight checklists and safety procedures
+- battery connection and charging procedures
+- radio controller and ground station setup
+- flight mode descriptions
+- tilting mechanism control and operation
+- takeoff and landing procedures
+- emergency procedures and troubleshooting
+- maintenance and storage guidelines
+
+📄 **Reference:**  
+- [`robots/baby_k/baby_k_manual_operation.md`](robots/baby_k/baby_k_manual_operation.md)
+
 ---
 
 ## Contribution Guidelines

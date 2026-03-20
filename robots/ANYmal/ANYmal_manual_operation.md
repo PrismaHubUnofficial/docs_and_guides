@@ -1,5 +1,11 @@
 # ANYmal – Power, Charging, and Manual Operation Guide
 
+<div style="text-align: center;">
+
+![ANYmal Robot Image](./figures/anymal.jpg)
+
+</div>
+
 ## Powering On ANYmal
 
 To power on ANYmal, press the **black button**.  

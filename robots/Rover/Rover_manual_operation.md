@@ -1,5 +1,11 @@
 # Rover – Power, NUC Setup, and Connection Guide
 
+<div style="text-align: center;">
+
+![Rover Robot Image](./figures/rover.png)
+
+</div>
+
 ## Powering On the Rover
 
 To power on the rover, connect the **22.2 V battery** to the power connector located on the **rear side of the rover**, on the **first level**.
