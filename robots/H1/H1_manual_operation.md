@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
 
-![H1 Robot Image](./figures/h1.png)
+![H1 Robot Image](../figures/h1.png)
 
 </div>
 

@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
 
-![baby_k Robot Image](./figures/baby_k.png)
+![baby_k Robot Image](../figures/baby_k.png)
 
 </div>
 

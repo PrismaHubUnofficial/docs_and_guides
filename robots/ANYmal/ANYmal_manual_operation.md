@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
 
-![ANYmal Robot Image](./figures/anymal.jpg)
+![ANYmal Robot Image](../figures/anymal.jpg)
 
 </div>
 
