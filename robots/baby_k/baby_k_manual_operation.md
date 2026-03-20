@@ -1,10 +1,10 @@
 # baby_k – Tilting UAV with H-Configuration Manual Operation Guide
 
-<div style="text-align: center;">
+<p align="center">
 
-![baby_k Robot Image](../figures/baby_k.png)
+<img src="../figures/baby_k.png" alt="baby_k Robot Image" width="420">
 
-</div>
+</p>
 
 ## Overview
 

@@ -1,10 +1,10 @@
 # Rover – Power, NUC Setup, and Connection Guide
 
-<div style="text-align: center;">
+<p align="center">
 
-![Rover Robot Image](../figures/rover.png)
+<img src="../figures/rover.png" alt="Rover Robot Image" width="420">
 
-</div>
+</p>
 
 ## Powering On the Rover
 

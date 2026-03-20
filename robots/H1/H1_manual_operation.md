@@ -1,10 +1,10 @@
 # H1 – Battery Management and Manual Operation Guide
 
-<div style="text-align: center;">
+<p align="center">
 
-![H1 Robot Image](../figures/h1.png)
+<img src="../figures/h1.png" alt="H1 Robot Image" width="420">
 
-</div>
+</p>
 
 ## Side Battery Power On and Off
 

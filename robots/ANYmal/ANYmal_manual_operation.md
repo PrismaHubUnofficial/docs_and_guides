@@ -1,10 +1,10 @@
 # ANYmal – Power, Charging, and Manual Operation Guide
 
-<div style="text-align: center;">
+<p align="center">
 
-![ANYmal Robot Image](../figures/anymal.jpg)
+<img src="../figures/anymal.jpg" alt="ANYmal Robot Image" width="420">
 
-</div>
+</p>
 
 ## Powering On ANYmal
 
