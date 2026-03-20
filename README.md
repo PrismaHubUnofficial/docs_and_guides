@@ -57,7 +57,7 @@ The guide covers:
 - shutdown procedure
 
 📄 **Reference:**  
-- [`robots/H1/H1_manual_operation`](robots/H1/H1_manual_operation)
+- [`robots/H1/H1_manual_operation.md`](robots/H1/H1_manual_operation.md)
 
 ### Rover Mobile Platform
 
