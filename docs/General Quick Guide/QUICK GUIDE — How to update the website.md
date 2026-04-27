@@ -111,10 +111,10 @@ nav:
       - Creating Subtitles: "General Quick Guide/QUICK GUIDE — Creating Subtitles.md"
       - Voiceover for a Video: "General Quick Guide/QUICK GUIDE — Voiceover for a Video.md"
   - Robots:
-      - ANYmal: robots/ANYmal/ANYmal_manual_operation.md
+      - ANYmal: robots/anymal/anymal_manual_operation.md
       - baby_k: robots/baby_k/baby_k_manual_operation.md
-      - H1: robots/H1/H1_manual_operation.md
-      - Rover: robots/Rover/Rover_manual_operation.md
+      - H1: robots/h1/h1_manual_operation.md
+      - Rover: robots/rover/rover_manual_operation.md
   - Resources:
       - LaTeX Symbols PDF: pdfs/latex_symbols_guide.pdf
 ```
@@ -169,10 +169,10 @@ Add the page to `nav` in `mkdocs.yml`.
 ```yaml
 nav:
   - Robots:
-      - ANYmal: robots/ANYmal/ANYmal_manual_operation.md
+      - ANYmal: robots/anymal/anymal_manual_operation.md
       - baby_k: robots/baby_k/baby_k_manual_operation.md
-      - H1: robots/H1/H1_manual_operation.md
-      - Rover: robots/Rover/Rover_manual_operation.md
+      - H1: robots/h1/h1_manual_operation.md
+      - Rover: robots/rover/rover_manual_operation.md
       - Spot: robots/Spot/Spot_manual_operation.md
 ```
 

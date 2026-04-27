@@ -32,12 +32,26 @@ nav:
       - How to Update the Website: General Quick Guide/QUICK GUIDE — How to update the website.md
       - Voiceover for a Video: General Quick Guide/QUICK GUIDE — Voiceover for a Video.md
   - Robotic Platforms:
-      - ANYmal: robots/ANYmal/ANYmal_manual_operation.md
-      - Baby K: robots/baby_k/baby_k_manual_operation.md
-      - H1: robots/H1/H1_manual_operation.md
-      - Rover: robots/Rover/Rover_manual_operation.md
+      - Legged:
+        - ANYmal: robots/anymal/anymal_manual_operation.md
+        - H1: robots/h1/h1_manual_operation.md
+      - Aerial:
+        - Dummy: robots/dummy/dummy_manual_operation.md
+        - baby_k: robots/baby_k/baby_k_manual_operation.md
+        - Leonardo: robots/leonardo/leonardo_manual_operation.md
+      - Wheeled:
+        - Rover: robots/rover/rover_manual_operation.md
+        - fra2mo: robots/fra2mo/fra2mo_manual_operation.md
+      - Manipulators:
+        - Franka: robots/franka/franka_manual_operation.md
+        - Armando: robots/armando/armando_manual_operation.md
+        - Kuka: robots/kuka_iiwa/kuka_iiwa_manual_operation.md
+      - Others:
+        - Haption: robots/haption/haption_manual_operation.md
+        - Falcon: robots/falcon/falcon_manual_operation.md
   - Resources:
       - LaTeX Symbols Guide: pdfs/latex_symbols_guide.pdf
+      - Manual Template: robots/manual_operation_template.md
 
 # Estensioni per rendere il sito professionale (tabelle, note, ecc.)
 markdown_extensions:

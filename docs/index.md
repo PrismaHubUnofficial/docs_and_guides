@@ -32,66 +32,34 @@ These guides cover:
 - [`General Quick Guide/QUICK GUIDE — Creating Subtitles.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20Creating%20Subtitles.md)
 - [`General Quick Guide/QUICK GUIDE — How to update the website.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20How%20to%20update%20the%20website.md)
 
-### ANYmal Quadruped Robot
+### Robotic Platforms by Type
 
-A detailed operational guide for the **ANYmal quadruped robot** is currently available.
+#### Legged
 
-The guide covers:
-- power on and charging procedures
-- emergency stop behavior
-- tablet and app setup
-- manual control modes
-- virtual joystick usage
+- [`robots/anymal/anymal_manual_operation.md`](robots/anymal/anymal_manual_operation.md)
+- [`robots/h1/h1_manual_operation.md`](robots/h1/h1_manual_operation.md)
 
-📄 **Reference:**  
-- [`robots/ANYmal/ANYmal_manual_operation.md`](robots/ANYmal/ANYmal_manual_operation.md)
+#### Aerial
 
-### H1 Humanoid Robot
-
-A detailed operational guide for the **H1 humanoid robot** is currently available.
-
-The guide covers:
-- side battery power on and power off procedures
-- battery removal and charging instructions
-- controller power on procedure
-- robot operating modes
-- teleoperation commands
-- shutdown procedure
-
-📄 **Reference:**  
-- [`robots/H1/H1_manual_operation.md`](robots/H1/H1_manual_operation.md)
-
-### Rover Mobile Platform
-
-A detailed operational guide for the **rover mobile platform** is currently available.
-
-The guide covers:
-- rover battery connection procedure
-- NUC power on procedure
-- alternative external NUC power supply
-- hardware connection notes
-- Docker image references
-- SSH connection details
-
-📄 **Reference:**  
-- [`robots/Rover/Rover_manual_operation.md`](robots/Rover/Rover_manual_operation.md)
-
-### baby_k Tilting UAV
-
-A detailed operational guide for the **baby_k tilting unmanned aerial vehicle** is currently available.
-
-The guide covers:
-- pre-flight checklists and safety procedures
-- battery connection and charging procedures
-- radio controller and ground station setup
-- flight mode descriptions
-- tilting mechanism control and operation
-- takeoff and landing procedures
-- emergency procedures and troubleshooting
-- maintenance and storage guidelines
-
-📄 **Reference:**  
+- [`robots/dummy/dummy_manual_operation.md`](robots/dummy/dummy_manual_operation.md)
 - [`robots/baby_k/baby_k_manual_operation.md`](robots/baby_k/baby_k_manual_operation.md)
+- [`robots/leonardo/leonardo_manual_operation.md`](robots/leonardo/leonardo_manual_operation.md)
+
+#### Wheeled
+
+- [`robots/rover/rover_manual_operation.md`](robots/rover/rover_manual_operation.md)
+- [`robots/fra2mo/fra2mo_manual_operation.md`](robots/fra2mo/fra2mo_manual_operation.md)
+
+#### Manipulators
+
+- [`robots/franka/franka_manual_operation.md`](robots/franka/franka_manual_operation.md)
+- [`robots/armando/armando_manual_operation.md`](robots/armando/armando_manual_operation.md)
+- [`robots/kuka_iiwa/kuka_iiwa_manual_operation.md`](robots/kuka_iiwa/kuka_iiwa_manual_operation.md)
+
+#### Others
+
+- [`robots/haption/haption_manual_operation.md`](robots/haption/haption_manual_operation.md)
+- [`robots/falcon/falcon_manual_operation.md`](robots/falcon/falcon_manual_operation.md)
 
 ---
 
