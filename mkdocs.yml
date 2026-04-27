@@ -1,0 +1,47 @@
+site_name: Robotics & Documentation Hub
+site_description: Technical manuals and quick guides for robotic systems.
+site_author: Simone
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - content.code.copy
+
+# Questa sezione mappa esattamente le tue cartelle
+nav:
+  - Home: index.md
+  - General Quick Guides:
+      - Creating Subtitles: General Quick Guide/QUICK GUIDE — Creating Subtitles.md
+      - Voiceover for a Video: General Quick Guide/QUICK GUIDE — Voiceover for a Video.md
+  - Robotic Platforms:
+      - ANYmal: robots/ANYmal/ANYmal_manual_operation.md
+      - Baby K: robots/baby_k/baby_k_manual_operation.md
+      - H1: robots/H1/H1_manual_operation.md
+      - Rover: robots/Rover/Rover_manual_operation.md
+  - Resources:
+      - LaTeX Symbols Guide: pdfs/latex_symbols_guide.pdf
+
+# Estensioni per rendere il sito professionale (tabelle, note, ecc.)
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list # Necessario per ridimensionare immagini
