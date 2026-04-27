@@ -1,6 +1,6 @@
 # H1 – Battery Management and Manual Operation Guide
 
-![ANYmal Robot](../figures/h1.png){ width="420" }
+![H1 Robot](../figures/h1.jpg){ width="420" }
 
 
 ## Side Battery Power On and Off

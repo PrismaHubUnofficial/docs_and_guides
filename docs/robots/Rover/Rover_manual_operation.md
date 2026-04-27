@@ -1,6 +1,6 @@
 # Rover – Power, NUC Setup, and Connection Guide
 
-![ANYmal Robot](../figures/rover.png){ width="420" }
+![Rover Robot](../figures/rover.jpg){ width="420" }
 
 
 ## Powering On the Rover
