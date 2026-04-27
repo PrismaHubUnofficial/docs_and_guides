@@ -2,7 +2,6 @@
 
 ![Rover Robot](../figures/rover.jpg){ width="420" }
 
-
 ## Powering On the Rover
 
 To power on the rover, connect the **22.2 V battery** to the power connector located on the **rear side of the rover**, on the **first level**.

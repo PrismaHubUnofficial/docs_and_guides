@@ -2,7 +2,6 @@
 
 ![H1 Robot](../figures/h1.jpg){ width="420" }
 
-
 ## Side Battery Power On and Off
 
 The side batteries are located under the robot’s left arm.

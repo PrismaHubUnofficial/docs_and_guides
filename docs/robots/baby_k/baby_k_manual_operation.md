@@ -2,7 +2,6 @@
 
 ![Baby-K Robot](../figures/baby_k.jpg){ width="420" }
 
-
 ## Overview
 
 The **baby_k** is a tilting unmanned aerial vehicle (UAV) featuring an **H-configuration with 8 coaxial rotors**.
