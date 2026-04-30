@@ -5,6 +5,7 @@ site_author: Simone
 theme:
   name: material
   language: en
+  favicon: assets/images/favicon.ico
   palette:
     - scheme: default
       primary: indigo
