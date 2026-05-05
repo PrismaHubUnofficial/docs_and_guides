@@ -1,0 +1,15 @@
+:root {
+  --md-primary-fg-color: rgb(40, 68, 94);
+  --md-primary-fg-color--light: rgb(113, 147, 100);
+  --md-primary-fg-color--dark: rgb(28, 47, 65);
+  --md-accent-fg-color: rgb(171, 19, 75);
+  --md-typeset-a-color: rgb(113, 147, 100);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: rgb(40, 68, 94);
+  --md-primary-fg-color--light: rgb(113, 147, 100);
+  --md-primary-fg-color--dark: rgb(28, 47, 65);
+  --md-accent-fg-color: rgb(171, 19, 75);
+  --md-typeset-a-color: rgb(113, 147, 100);
+}
