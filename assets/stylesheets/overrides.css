@@ -26,7 +26,11 @@
   --md-accent-bg-color: #fff;
 }
 
-/* Tweak header/nav active background to use primary */
-.md-nav__link--active,
-.md-header{ background-color: var(--md-primary-fg-color); }
-.md-header .md-logo img{ filter: brightness(0) invert(1); }
+/* Keep header/logo default; apply only a subtle tint to active nav links */
+[data-md-color-scheme="default"] .md-nav__link--active {
+  background-color: rgba(68,113,147,0.08); /* subtle tint using primary */
+}
+
+[data-md-color-scheme="slate"] .md-nav__link--active {
+  background-color: rgba(40,68,94,0.12); /* slightly stronger on dark */
+}
