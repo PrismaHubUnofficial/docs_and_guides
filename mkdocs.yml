@@ -6,6 +6,7 @@ theme:
   name: material
   language: en
   favicon: assets/images/favicon.ico
+  logo: assets/images/logo.png
   palette:
     - scheme: default
       primary: indigo
@@ -21,7 +22,6 @@ theme:
         name: Switch to light mode
   features:
     - navigation.sections
-    - navigation.expand
     - navigation.top
     - content.code.copy
 
@@ -61,3 +61,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list # Necessario per ridimensionare immagini
+
+extra_css:
+  - assets/stylesheets/brand-colors.css
