@@ -32,7 +32,9 @@ nav:
       - Creating Subtitles: General Quick Guide/QUICK GUIDE — Creating Subtitles.md
       - How to Update the Website: General Quick Guide/QUICK GUIDE — How to update the website.md
       - Voiceover for a Video: General Quick Guide/QUICK GUIDE — Voiceover for a Video.md
+      - Using the GitHub Pages Template: General Quick Guide/QUICK GUIDE — Using the GitHub Pages Template.md
   - Robotic Platforms:
+      - Status Table: robots/status/robot_status_table.md
       - Legged:
         - ANYmal: robots/anymal/anymal_manual_operation.md
         - H1: robots/h1/h1_manual_operation.md

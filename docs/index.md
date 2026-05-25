@@ -15,24 +15,29 @@ All contents are meant to support:
 - safe and correct operation of shared hardware and software resources
 
 ---
-
 ## Available Guides
 
 ### General Quick Guides
 
-A collection of **general-purpose quick guides** is also available.
+A collection of **general‑purpose quick guides** is available.
 
 These guides cover:
-- text-to-speech workflow for video voiceovers
-- subtitle creation in `.srt` format for voiceover videos
-- website update and publication workflow with MkDocs
 
-📄 **References:**  
-- [`General Quick Guide/QUICK GUIDE — Voiceover for a Video.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20Voiceover%20for%20a%20Video.md)
-- [`General Quick Guide/QUICK GUIDE — Creating Subtitles.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20Creating%20Subtitles.md)
-- [`General Quick Guide/QUICK GUIDE — How to update the website.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20How%20to%20update%20the%20website.md)
+- **Voiceover for a Video** — learn how to generate voice‑overs using text‑to‑speech tools.  
+  📄 [`General Quick Guide/QUICK GUIDE — Voiceover for a Video.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20Voiceover%20for%20a%20Video.md)
+
+- **Creating Subtitles** — steps to create `.srt` subtitles for your voice‑over videos.  
+  📄 [`General Quick Guide/QUICK GUIDE — Creating Subtitles.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20Creating%20Subtitles.md)
+
+- **How to Update the Website** — workflow for updating and publishing your site with MkDocs.  
+  📄 [`General Quick Guide/QUICK GUIDE — How to update the website.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20How%20to%20update%20the%20website.md)
+
+- **Using the GitHub Pages Template** — instructions for setting up and customising the GitHub Pages template for research reports.  
+  📄 [`General Quick Guide/QUICK GUIDE — Using the GitHub Pages Template.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20Using%20the%20GitHub%20Pages%20Template.md)
+
 
 ### Robotic Platforms by Type
+
 
 #### Legged
 
