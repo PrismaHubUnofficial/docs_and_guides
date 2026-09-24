@@ -15,7 +15,6 @@
 | Manipulator | franka 1 e 2 | Complete | Franka - Manual Operation |
 | Manipulator | kuka_iiwa | Complete | Kuka iiwa - Manual Operation |
 | Manipulator | S.W.A.N. | Complete | S.W.A.N. - Manual Operation |
-| Manipulator | braccio anymal | Missing | Mancante |
 | Museum | Rodyman | Archived | Museum gallery |
 | Haptic Devices | falcon | Complete | Falcon - Manual Operation |
 | Haptic Devices | haption 1 e 2 | Complete | Haption - Manual Operation |
