@@ -2,7 +2,7 @@
 
 ## Overview
 
-Basic operational placeholder for the P.O.C.H.O. aerial platform.
+Basic operational placeholder for the P.O.C.H.O. (Platform for Onboard Computing and Heterogeneous Operations) UAV.
 
 ## Platform Type
 

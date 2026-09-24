@@ -62,4 +62,6 @@ External distribution of the material should be evaluated on a case-by-case basi
 
 ---
 
+![Keep the gradient](assets/images/ktg.jpeg){ width="720" }
+
 
