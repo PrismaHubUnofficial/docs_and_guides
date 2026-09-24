@@ -31,30 +31,39 @@ nav:
   - General Quick Guides:
       - Creating Subtitles: General Quick Guide/QUICK GUIDE — Creating Subtitles.md
       - How to Update the Website: General Quick Guide/QUICK GUIDE — How to update the website.md
-      - Voiceover for a Video: General Quick Guide/QUICK GUIDE — Voiceover for a Video.md
       - Using the GitHub Pages Template: General Quick Guide/QUICK GUIDE — Using the GitHub Pages Template.md
+      - Voiceover for a Video: General Quick Guide/QUICK GUIDE — Voiceover for a Video.md
   - Robotic Platforms:
       - Status Table: robots/status/robot_status_table.md
+      - Aerial:
+        - A2RL Drone: robots/a2rl/a2rl_manual_operation.md
+        - baby_k: robots/baby_k/baby_k_manual_operation.md
+        - Crazyflie Swarm: robots/crazyflie_swarm/crazyflie_swarm_manual_operation.md
+        - M.A.R.A.Drone: robots/dummy/dummy_manual_operation.md
+        - P.O.C.H.O.: robots/pocho/pocho_manual_operation.md
+        - T.T. Drone: robots/leonardo/leonardo_manual_operation.md
+      - Haptic Devices:
+        - Falcon: robots/falcon/falcon_manual_operation.md
+        - Haption: robots/haption/haption_manual_operation.md
+      - Lab Equipment:
+        - Equipment Archive: robots/lab_equipment/lab_equipment.md
       - Legged:
         - ANYmal: robots/anymal/anymal_manual_operation.md
         - H1: robots/h1/h1_manual_operation.md
-      - Aerial:
-        - Dummy: robots/dummy/dummy_manual_operation.md
-        - baby_k: robots/baby_k/baby_k_manual_operation.md
-        - Leonardo: robots/leonardo/leonardo_manual_operation.md
-      - Wheeled:
-        - Rover: robots/rover/rover_manual_operation.md
-        - fra2mo: robots/fra2mo/fra2mo_manual_operation.md
       - Manipulators:
-        - Franka: robots/franka/franka_manual_operation.md
         - Armando: robots/armando/armando_manual_operation.md
+        - Franka: robots/franka/franka_manual_operation.md
         - Kuka: robots/kuka_iiwa/kuka_iiwa_manual_operation.md
-      - Others:
-        - Haption: robots/haption/haption_manual_operation.md
-        - Falcon: robots/falcon/falcon_manual_operation.md
+        - S.W.A.N.: robots/swan/swan_manual_operation.md
+      - Museum:
+        - Discontinued Projects: robots/museum/museum.md
+      - Wheeled:
+        - fra2mo: robots/fra2mo/fra2mo_manual_operation.md
+        - Rover: robots/rover/rover_manual_operation.md
   - Resources:
       - LaTeX Symbols Guide: pdfs/latex_symbols_guide.pdf
       - Manual Template: robots/manual_operation_template.md
+      - Thesis Writing and Supervisor Interaction Guide: https://it.overleaf.com/read/qqyhmvgkfjgh#793535
 
 # Estensioni per rendere il sito professionale (tabelle, note, ecc.)
 markdown_extensions:

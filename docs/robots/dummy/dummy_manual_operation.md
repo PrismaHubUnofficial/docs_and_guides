@@ -1,8 +1,10 @@
-# Dummy - Manual Operation
+# M.A.R.A.Drone - Manual Operation
+
+![M.A.R.A.Drone](../figures/dummy.png){ width="420" }
 
 ## Overview
 
-Basic operational placeholder for the Dummy aerial platform.
+Basic operational placeholder for the M.A.R.A.Drone aerial platform.
 
 ## Platform Type
 

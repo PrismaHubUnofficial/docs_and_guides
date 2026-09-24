@@ -6,7 +6,7 @@ Short description of the platform, its purpose, and operational context.
 
 ## Platform Type
 
-- Category: <Legged | Aerial | Wheeled | Manipulator | Others>
+- Category: <Legged | Aerial | Wheeled | Manipulator | Haptic Devices>
 - System owner: <Team or person>
 - Last validated: <YYYY-MM-DD>
 

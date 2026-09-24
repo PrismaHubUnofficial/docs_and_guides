@@ -1,12 +1,14 @@
 # Haption - Manual Operation
 
+![Haption](../figures/haption.png){ width="420" }
+
 ## Overview
 
 Basic operational placeholder for the Haption haptic system.
 
 ## Platform Type
 
-- Category: Others
+- Category: Haptic Devices
 - System owner: TBD
 - Last validated: TBD
 

@@ -1,5 +1,7 @@
 # fra2mo - Manual Operation
 
+![fra2mo](../figures/fra2mo.png){ width="420" }
+
 ## Overview
 
 Basic operational placeholder for the fra2mo wheeled platform.

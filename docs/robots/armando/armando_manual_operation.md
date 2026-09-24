@@ -1,5 +1,7 @@
 # Armando - Manual Operation
 
+![Armando](../figures/armando.png){ width="420" }
+
 ## Overview
 
 Basic operational placeholder for the Armando manipulator.

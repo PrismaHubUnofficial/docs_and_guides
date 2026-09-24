@@ -1,12 +1,14 @@
 # Falcon - Manual Operation
 
+![Falcon](../figures/falcon.png){ width="420" }
+
 ## Overview
 
 Basic operational placeholder for the Falcon haptic system.
 
 ## Platform Type
 
-- Category: Others
+- Category: Haptic Devices
 - System owner: TBD
 - Last validated: TBD
 

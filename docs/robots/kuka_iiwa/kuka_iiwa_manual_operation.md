@@ -1,5 +1,7 @@
 # Kuka iiwa - Manual Operation
 
+![Kuka iiwa](../figures/kuka_iiwa.png){ width="420" }
+
 ## Overview
 
 Basic operational placeholder for the Kuka iiwa manipulator.

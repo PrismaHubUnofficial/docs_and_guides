@@ -1,8 +1,10 @@
-# Leonardo - Manual Operation
+# T.T. Drone - Manual Operation
+
+![T.T. Drone](../figures/tt_drone.png){ width="420" }
 
 ## Overview
 
-Basic operational placeholder for the Leonardo aerial platform.
+Basic operational placeholder for the T.T. Drone aerial platform.
 
 ## Platform Type
 

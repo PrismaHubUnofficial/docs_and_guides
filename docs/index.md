@@ -19,52 +19,27 @@ All contents are meant to support:
 
 ### General Quick Guides
 
-A collection of **general‑purpose quick guides** is available.
-
-These guides cover:
-
-- **Voiceover for a Video** — learn how to generate voice‑overs using text‑to‑speech tools.  
-  📄 [`General Quick Guide/QUICK GUIDE — Voiceover for a Video.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20Voiceover%20for%20a%20Video.md)
-
-- **Creating Subtitles** — steps to create `.srt` subtitles for your voice‑over videos.  
-  📄 [`General Quick Guide/QUICK GUIDE — Creating Subtitles.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20Creating%20Subtitles.md)
-
-- **How to Update the Website** — workflow for updating and publishing your site with MkDocs.  
-  📄 [`General Quick Guide/QUICK GUIDE — How to update the website.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20How%20to%20update%20the%20website.md)
-
-- **Using the GitHub Pages Template** — instructions for setting up and customising the GitHub Pages template for research reports.  
-  📄 [`General Quick Guide/QUICK GUIDE — Using the GitHub Pages Template.md`](General%20Quick%20Guide/QUICK%20GUIDE%20%E2%80%94%20Using%20the%20GitHub%20Pages%20Template.md)
+The menu contains general-purpose guides for media production, website maintenance,
+and GitHub Pages workflows.
 
 
 ### Robotic Platforms by Type
 
 
-#### Legged
+The main robot categories are:
 
-- [`robots/anymal/anymal_manual_operation.md`](robots/anymal/anymal_manual_operation.md)
-- [`robots/h1/h1_manual_operation.md`](robots/h1/h1_manual_operation.md)
+- Aerial
+- Haptic Devices
+- Lab Equipment
+- Legged
+- Manipulators
+- Museum
+- Wheeled
 
-#### Aerial
+### Resources
 
-- [`robots/dummy/dummy_manual_operation.md`](robots/dummy/dummy_manual_operation.md)
-- [`robots/baby_k/baby_k_manual_operation.md`](robots/baby_k/baby_k_manual_operation.md)
-- [`robots/leonardo/leonardo_manual_operation.md`](robots/leonardo/leonardo_manual_operation.md)
-
-#### Wheeled
-
-- [`robots/rover/rover_manual_operation.md`](robots/rover/rover_manual_operation.md)
-- [`robots/fra2mo/fra2mo_manual_operation.md`](robots/fra2mo/fra2mo_manual_operation.md)
-
-#### Manipulators
-
-- [`robots/franka/franka_manual_operation.md`](robots/franka/franka_manual_operation.md)
-- [`robots/armando/armando_manual_operation.md`](robots/armando/armando_manual_operation.md)
-- [`robots/kuka_iiwa/kuka_iiwa_manual_operation.md`](robots/kuka_iiwa/kuka_iiwa_manual_operation.md)
-
-#### Others
-
-- [`robots/haption/haption_manual_operation.md`](robots/haption/haption_manual_operation.md)
-- [`robots/falcon/falcon_manual_operation.md`](robots/falcon/falcon_manual_operation.md)
+The menu contains the LaTeX symbols guide, the manual template, and the
+read-only Overleaf guide for thesis writing and supervisor interaction.
 
 ---
 
