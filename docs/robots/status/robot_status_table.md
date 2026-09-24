@@ -1,6 +1,6 @@
 | Category | Robot | Status | Document Title |
 |---|---|---|---|
-| Aerial | baby_k | Partial | baby_k – Tilting UAV with H-Configuration Manual Operation Guide |
+| Aerial | Baby_K | Partial | Baby_K – Tilting UAV with H-Configuration Manual Operation Guide |
 | Aerial | M.A.R.A.Drone | Complete | M.A.R.A.Drone - Manual Operation |
 | Aerial | T.T. Drone | Complete | T.T. Drone - Manual Operation |
 | Aerial | P.O.C.H.O. | Complete | P.O.C.H.O. - Manual Operation |

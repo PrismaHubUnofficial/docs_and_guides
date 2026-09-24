@@ -37,7 +37,7 @@ nav:
       - Status Table: robots/status/robot_status_table.md
       - Aerial:
         - A2RL Drone: robots/a2rl/a2rl_manual_operation.md
-        - baby_k: robots/baby_k/baby_k_manual_operation.md
+        - Baby_K: robots/baby_k/baby_k_manual_operation.md
         - Crazyflie Swarm: robots/crazyflie_swarm/crazyflie_swarm_manual_operation.md
         - M.A.R.A.Drone: robots/dummy/dummy_manual_operation.md
         - P.O.C.H.O.: robots/pocho/pocho_manual_operation.md
