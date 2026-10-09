@@ -47,6 +47,10 @@ nav:
         - Haption: robots/haption/haption_manual_operation.md
       - Lab Equipment:
         - Equipment Archive: robots/lab_equipment/lab_equipment.md
+      - Server:
+        - Workstation Overview: robots/server/server_workstation.md
+        - Isaac Sim & Isaac Lab: robots/server/isaac_sim_lab.md
+        - System Administrators: robots/server/administrators.md
       - Legged:
         - ANYmal: robots/anymal/anymal_manual_operation.md
         - H1: robots/h1/h1_manual_operation.md

@@ -18,6 +18,8 @@ Each entry is kept as a short visual record rather than a dedicated operation ma
 
 ## Server Isaac
 
+For operational guidelines, Docker procedures, and simulation manuals, see the [Server Workstation Documentation](../server/server_workstation.md).
+
 *Photo: to be added.*
 
 ## Optitrack Lab

@@ -31,6 +31,7 @@ The main robot categories are:
 - Aerial
 - Haptic Devices
 - Lab Equipment
+- Server
 - Legged
 - Manipulators
 - Museum
