@@ -170,6 +170,7 @@ isaaclab python scripts/reinforcement_learning/rsl_rl/train.py --task Isaac-Cart
     # Detach with: Ctrl + B, then D
     # Reattach later with: tmux attach -t my_training
     ```
+    For a full guide on `tmux` workflows and shortcuts, see the [Lab Workstation Overview](server_workstation.md#remote-execution--persistent-jobs-with-tmux).
 
 ### Developing with Custom Isaac Lab Projects
 
@@ -204,7 +205,8 @@ This attaches directly into the **already running container** without interrupti
 
 1. **Mutual exclusion**: You cannot run `isaacsim` and `isaaclab` simultaneously under your user account. Both tools share the Omniverse kit cache, and concurrent execution will corrupt it. Stop one command before starting the other.
 2. **GPU resource sharing**: The workstation has a single shared GPU. Multiple users can work simultaneously, but concurrent heavy training runs will reduce throughput for everyone. Check GPU utilization (`nvidia-smi`) and coordinate compute-heavy jobs.
-3. **Closing containers**: To terminate an active session, close the graphical window, send `Ctrl + C` in the terminal, or type `exit` in an interactive shell.
+3. **Disk usage policy**: High-speed NVMe space is shared and limited. Store datasets on the 1 TB NVMe drive only for the duration of the active training run, and move or delete them once completed (see [Storage Policy](server_workstation.md#storage-architecture--disk-usage-policy)).
+4. **Closing containers**: To terminate an active session, close the graphical window, send `Ctrl + C` in the terminal, or type `exit` in an interactive shell.
 
 ---
 

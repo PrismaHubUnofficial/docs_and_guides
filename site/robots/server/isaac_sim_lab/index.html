@@ -2467,7 +2467,8 @@ isaacsim<span class="w"> </span>-v<span class="w"> </span>~/data/scenes:scenes:r
 isaaclab<span class="w"> </span>python<span class="w"> </span>scripts/...<span class="w"> </span>--headless
 <span class="c1"># Detach with: Ctrl + B, then D</span>
 <span class="c1"># Reattach later with: tmux attach -t my_training</span>
-</code></pre></div></p>
+</code></pre></div>
+For a full guide on <code>tmux</code> workflows and shortcuts, see the <a href="../server_workstation/#remote-execution--persistent-jobs-with-tmux">Lab Workstation Overview</a>.</p>
 </div>
 <h3 id="developing-with-custom-isaac-lab-projects">Developing with Custom Isaac Lab Projects</h3>
 <p>If you have a project created from the Isaac Lab template, install it in editable mode inside the container so the framework can discover your tasks:</p>
@@ -2506,6 +2507,7 @@ isaaclab<span class="w"> </span>python<span class="w"> </span>scripts/...<span c
 <ol>
 <li><strong>Mutual exclusion</strong>: You cannot run <code>isaacsim</code> and <code>isaaclab</code> simultaneously under your user account. Both tools share the Omniverse kit cache, and concurrent execution will corrupt it. Stop one command before starting the other.</li>
 <li><strong>GPU resource sharing</strong>: The workstation has a single shared GPU. Multiple users can work simultaneously, but concurrent heavy training runs will reduce throughput for everyone. Check GPU utilization (<code>nvidia-smi</code>) and coordinate compute-heavy jobs.</li>
+<li><strong>Disk usage policy</strong>: High-speed NVMe space is shared and limited. Store datasets on the 1 TB NVMe drive only for the duration of the active training run, and move or delete them once completed (see <a href="../server_workstation/#storage-architecture--disk-usage-policy">Storage Policy</a>).</li>
 <li><strong>Closing containers</strong>: To terminate an active session, close the graphical window, send <code>Ctrl + C</code> in the terminal, or type <code>exit</code> in an interactive shell.</li>
 </ol>
 <hr />
